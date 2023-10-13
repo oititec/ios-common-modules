@@ -1,8 +1,5 @@
 //
 //  OINetwork.h
-//  OINetwork
-//
-//  Created by Vitor Souza on 06/12/22.
 //
 
 #import <Foundation/Foundation.h>
