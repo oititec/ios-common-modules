@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.swift_versions  = '5.0'
     s.platform        = :ios, '11.0'
     s.source          = { 
-        :git => 'https://github.com/oititec/ios-security.git', 
+        :git => 'https://github.com/oititec/ios-common-modules.git', 
         :tag => s.name.to_s + '-' + s.version.to_s
     }
     s.vendored_frameworks   = 'Frameworks/OISecurity.xcframework'
