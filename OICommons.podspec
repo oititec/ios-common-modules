@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.swift_versions        = '5.0'
     s.source                = { 
         :git => 'https://github.com/oititec/ios-common-modules.git', 
-        :tag => 'OICommons-' + s.version.to_s 
+        :tag => s.name.to_s + '-' + s.version.to_s
     }
     s.vendored_frameworks   = 'Frameworks/OICommons.xcframework'
 end

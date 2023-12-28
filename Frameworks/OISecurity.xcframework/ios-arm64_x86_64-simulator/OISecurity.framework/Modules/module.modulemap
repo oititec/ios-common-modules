@@ -1,0 +1,11 @@
+framework module OISecurity {
+  umbrella header "OISecurity.h"
+
+  export *
+  module * { export * }
+}
+
+module OISecurity.Swift {
+  header "OISecurity-Swift.h"
+  requires objc
+}
