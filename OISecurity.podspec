@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name            = "OISecurity"
-    s.version         = '1.4.3'
+    s.version         = '1.4.4'
     s.summary         = 'Módulo para mapeamento de eventos'
     s.homepage        = 'https://www.oititec.com.br/'
     s.license         = { :type => 'Copyright', :text => 'Copyright © 2023 Oiti. All rights reserved.' }
