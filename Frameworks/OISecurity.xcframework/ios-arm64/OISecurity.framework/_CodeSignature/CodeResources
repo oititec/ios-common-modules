@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aaS6jW68Nkr7NO9jb6LQs6se4zg=
+		BovZ5OsOvcwrEEmRHCmGdy0t5W4=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		xCJTPNIL1i3t0DbnP1zh75wYQ3w=
+		EL2aO6HPGpBloMP5DwJzibA2tSc=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		xCJTPNIL1i3t0DbnP1zh75wYQ3w=
+		EL2aO6HPGpBloMP5DwJzibA2tSc=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		eF75BmG6zs57QTN44+/yzcbMY2s=
+		nvGJYVD6ePY1ngMbp27DsGRzGTI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			InTrgSeWFV+sQbRQUVzXua7Sv4vfyZ5fCutId9Y5fXc=
+			Vk465KW/2LOYeTbOxskxCHVG0Fkl9SBrx/aTql98lAo=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			InTrgSeWFV+sQbRQUVzXua7Sv4vfyZ5fCutId9Y5fXc=
+			Vk465KW/2LOYeTbOxskxCHVG0Fkl9SBrx/aTql98lAo=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YgSWGbFd2lT+0pO9vfg+231a4Y0BF0ux+bR+aEttSEY=
+			KT4ZHlEpmoAkf9svFAAmXL2skyYWsDtIABEoD6OEWNk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
