@@ -19,6 +19,12 @@ import _StringProcessing
   final public let longitude: Swift.Double
   @objc deinit
 }
+@_hasMissingDesignatedInitializers final public class GlobalExceptionHandler {
+  public static var shared: ((Foundation.NSException) -> Swift.Void)?
+  public static var exceptionCallback: ((OISecurity.ExceptionPayload) -> Swift.Void)?
+  public static func start()
+  @objc deinit
+}
 public struct SecurityPayload {
 }
 public struct SecurityEvent {
@@ -26,6 +32,8 @@ public struct SecurityEvent {
 public struct CryptoManager {
   public static func encrypt(_ value: Foundation.NSData, withKey secretKey: Swift.String) -> Swift.String?
   public static func decrypt(_ value: Swift.String, withKey secretKey: Swift.String) -> Foundation.Data?
+}
+public struct ExceptionPayload : Swift.Error {
 }
 public enum PersistenceOption : Swift.String {
   case index
