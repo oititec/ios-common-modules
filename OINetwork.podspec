@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                  = 'OINetwork'
-    s.version               = '2.0.0'
+    s.version               = '2.1.0'
     s.summary               = 'Módulo para encapsular a camada de requisição.'
     s.homepage              = 'https://www.oititec.com.br/'
     s.license               = { :type => 'Copyright', :text => 'Copyright © 2022-2024 Oiti. All rights reserved.' }
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     }
     s.vendored_frameworks   = 'Frameworks/OINetwork.xcframework'
 
-    s.dependency 'OICommons', '~> 1.2'
+    s.dependency 'OICommons', '~> 2.0'
 end

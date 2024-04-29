@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/XqRwvc38ijI3OJd77dJFr/5mA4=
+		s80Dm4k8lato1lwh/RXEcuCUY0c=
 		</data>
 		<key>Modules/OINetwork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/OINetwork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		47FmQ6A2kZp6sSqq5+TytHy8xXM=
+		ngkddajl3L5EjoIHPMuRRdKgay4=
 		</data>
 		<key>Modules/OINetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/OINetwork.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/K4FnMPvrpTl9pj/fIKiBL0O9H0=
+		r6ZBhP2PXdJMGrYusMf+vRpdQeI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			noqVPEnKr6KrH5+QTRdnLOY6l9NAy7DJDvrlhBqHLPU=
+			HNmgKJhRnjYs5tcgg8cANFzEW2ujjVxehQI6Hy3M+xc=
 			</data>
 		</dict>
 		<key>Modules/OINetwork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hd92LRromTpAUHB+3nF11csT366fJGafvabBUDWJ42g=
+			iBzRI4NjWr2eBKyiU2BgxMH77vPQBZ6LgVWZd/PONJs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

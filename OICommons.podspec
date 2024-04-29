@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                  = 'OICommons'
-    s.version               = '1.2.0'
+    s.version               = '2.0.0'
     s.summary               = 'Módulo para distribuição de arquivos e sources comuns ao SDKs.'
     s.homepage              = 'https://www.oititec.com.br/'
     s.license               = { :type => 'Copyright', :text => 'Copyright © 2022-2024 Oiti. All rights reserved.' }
