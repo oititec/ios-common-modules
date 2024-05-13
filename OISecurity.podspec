@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name            = "OISecurity"
-    s.version         = '3.1.0'
+    s.version         = '3.1.1'
     s.summary         = 'Módulo para mapeamento de eventos'
     s.homepage        = 'https://www.oititec.com.br/'
     s.license         = { :type => 'Copyright', :text => 'Copyright © 2022-2024 Oiti. All rights reserved.' }
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     }
     s.vendored_frameworks   = 'Frameworks/OISecurity.xcframework'
 
-    s.dependency 'OINetwork', '~> 2.0'
+    s.dependency 'OINetwork', '~> 2.0.1'
 end

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OISecurity-Swift.h</key>
 		<data>
-		Ur/sUjAJu3aNZ7hkuZGS0Z3dfrI=
+		S66H+2YA4A+mORwY9rMK4pcCELs=
 		</data>
 		<key>Headers/OISecurity.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tUUyQAOb80e/gawkYT5DE2O9nUs=
+		Z3iS1kKMIjy4U5DxvWeOUhooXRM=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		PhvpJ5SAgGRHlXDOEpVraCi7yKc=
+		ZxuxUCFrItmXN8MY9BxCSRMnirY=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		AZkXXyc4EdMsYf/cyZQE/af3NsU=
+		7J0WxXU2+tXB0KEceXPkePNqhsU=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PhvpJ5SAgGRHlXDOEpVraCi7yKc=
+		ZxuxUCFrItmXN8MY9BxCSRMnirY=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dlLAvliLpB70xVDpkAvd1xKpPsc=
+		IxI7ClmCy6932JwJeQvUHXTKbXo=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,23 +42,27 @@
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Q+cZwVSYxTjzlUa2llEWxzyqZlk=
+		iV4X00O7czEyF/L4gep5fC+p1/g=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/n1lNO1srZkQUZoXqt8HdlVOx4w=
+		4fUHpEbxsPSRSa4n2XRUPqfrgPU=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Q+cZwVSYxTjzlUa2llEWxzyqZlk=
+		iV4X00O7czEyF/L4gep5fC+p1/g=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jBqkxkj+k5Pw2rl9AuqgJOT9dKI=
+		TtVMdiFIAdTDR3mzrO6LaGc9vzA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		yS+w3IJzZeLsbAL+KQHXSSilA2Q=
+		JrMRKowRzh+VgoCGsSoW+XRYWqk=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		pLq6N9zuYZYgnq7oRb4v4Qk193g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XFnpQF+9JLL8sjWMNfLWb4rNqqjYAzZ+1rODWiVzabc=
+			ndDpLVhK8l81CiKMHb/v4uGwGwMuySSZV8gzFgZn2Tc=
 			</data>
 		</dict>
 		<key>Headers/OISecurity.h</key>
@@ -88,28 +92,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JAj397WahQzQHcb50sburJ9UkHxtaXI5ACUjffoqao0=
+			Zf2p92KfZ9ct6XsHaKdJDpbMstDILH+LpDtl5zJm5d8=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RhYMxIojDiuavVlvV+QKy77zTpKbVcxgpnLAtLnLhKU=
+			nCaeHEOUkjsbmw3TCj1161ihRQFzNyq/dKfTR8o+22c=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JAj397WahQzQHcb50sburJ9UkHxtaXI5ACUjffoqao0=
+			Zf2p92KfZ9ct6XsHaKdJDpbMstDILH+LpDtl5zJm5d8=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bxn6hNjTHaRQ42J+pODcdEFw1VgZ9wRYgCh0S+m+Pyo=
+			oughzzMH/TAmhM+L+obFiPMSQ0HullU4GnBOslBhCPg=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -123,35 +127,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ytKUiSjkmJlr6xOzug/d9Fm1IESImbA57gq+bjspW5A=
+			2hVbUcMwQ5N6gWadIb/QPicE6HsUOLZNGx3SdMdb47k=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SNM4Hh/Zd5d2dC8lHVr67TpeyqiTpu5X3Ug7XD8mKJI=
+			TmFko9A1cHK44BcxGNH7cNw+T3HlPwH1Q+bdbTV/n/M=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ytKUiSjkmJlr6xOzug/d9Fm1IESImbA57gq+bjspW5A=
+			2hVbUcMwQ5N6gWadIb/QPicE6HsUOLZNGx3SdMdb47k=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			474tNfbQ5vCV2Xj5Sqa77/SrqMjq9OQkdt7LbJX5cBQ=
+			BshXdhuiCGiASqreOVViKoD+4NdHckHXpDB24H9jFV8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KibR71vXoQ+hoGPDcWQQLcZNuOBzUlkDY2TR7IG4aZU=
+			3KaOCrT+WB1L8VUBKBM4bdZlTJZJbAAUbLGWRHFPBZo=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CXhSEfEvMxraOB5UVwbPYNPKmkj5/4Yb8AoHex4DUuU=
 			</data>
 		</dict>
 	</dict>
