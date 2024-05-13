@@ -1,7 +1,7 @@
 framework module OISecurity {
   umbrella header "OISecurity.h"
-
   export *
+
   module * { export * }
 }
 

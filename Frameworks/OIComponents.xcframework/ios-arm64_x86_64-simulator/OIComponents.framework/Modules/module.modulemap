@@ -1,7 +1,7 @@
 framework module OIComponents {
   umbrella header "OIComponents.h"
-
   export *
+
   module * { export * }
 }
 
