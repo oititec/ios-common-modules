@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     }
     s.vendored_frameworks   = 'Frameworks/OISecurity.xcframework'
 
-    s.dependency 'OINetwork', '~> 2.0.1'
+    s.dependency 'OINetwork', '~> 2.1.1'
 end
