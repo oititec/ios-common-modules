@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name            = "OISecurity"
-    s.version         = '4.0.0'
+    s.version         = '4.0.1'
     s.summary         = 'Módulo responsável por criar logs, evento e captura de crashes'
     s.homepage        = 'https://www.oititec.com.br/'
     s.license         = { :type => 'Copyright', :text => 'Copyright © 2022-2024 Oiti. All rights reserved.' }
