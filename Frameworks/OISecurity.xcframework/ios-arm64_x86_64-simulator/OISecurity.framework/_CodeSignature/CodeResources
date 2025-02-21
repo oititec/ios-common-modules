@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OISecurity-Swift.h</key>
 		<data>
-		S66H+2YA4A+mORwY9rMK4pcCELs=
+		0CxosPCXsjsVnRRZIXWm2kJp+/w=
 		</data>
 		<key>Headers/OISecurity.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		15+6Pf6ztE8tf6czMrtNUqbGPeE=
+		JscpflU6EPuVYmAWBYihUF8c8c4=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qOQS0pnIBoFjhrFdeeshoa5etaY=
+		xrewXcjkXvywY5Q2t7NP/yGCW08=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		AT0C0ksCd+mkP23G7l7JR8uYMR4=
+		ibDso1bg9P2K7+P2/vC5jWBDaTY=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qOQS0pnIBoFjhrFdeeshoa5etaY=
+		xrewXcjkXvywY5Q2t7NP/yGCW08=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		O+HUe6u9qoy2PpY9ebAC6i3veX0=
+		8BNeiSy91H72v0mPszx/BtD/KxA=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		JeLyZADwECZsHha1Ex5kFK/ooas=
+		K1wJ5ibEXdgWSQE6gqOMmlPi8y4=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		v4c8jxonywq+lzJ4zb5TiLTySr4=
+		OoeYom4STHNGeQncWaUhsBKdd2c=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JeLyZADwECZsHha1Ex5kFK/ooas=
+		K1wJ5ibEXdgWSQE6gqOMmlPi8y4=
 		</data>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2GLuW3aboLAxXhmeqjLAEOD8ZbM=
+		RCbqC6FQBe7sjknLzA4EP1heRnE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ndDpLVhK8l81CiKMHb/v4uGwGwMuySSZV8gzFgZn2Tc=
+			uDqL54dcjdQYODNzBgUrOJouGKoCg+B+Xi/4Xr+0wnk=
 			</data>
 		</dict>
 		<key>Headers/OISecurity.h</key>
@@ -92,28 +92,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WviodKr+GVZcqkRl7OZKbNc2ZEp4Bwt3uYcxBv8Anko=
+			Wj3S6q0UejeNJCEhRzefSxBM5cjKkJUe1zu90kAYCl4=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5SBziQ9boz/reYdVKNCNFC20+bix9kCdp1Trh0VrLNI=
+			PTc5ljwT8DFlmSSh0scXlW4EpLRwkGijGXfpzG7Sh/M=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WviodKr+GVZcqkRl7OZKbNc2ZEp4Bwt3uYcxBv8Anko=
+			Wj3S6q0UejeNJCEhRzefSxBM5cjKkJUe1zu90kAYCl4=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			96D+upwC9jD5sEVAH/etqz1FGlyfyDVcVFDpt3LD05c=
+			3/2Y8N4XOLdQpLSkoiJpuJRVHV5djXSzE1GqUAMaA78=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -127,28 +127,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jVKFevnoU4f8BuRXMKiaaPH2XzzveADSy3pqN5nTgpg=
+			Cbun8+DxTvfjCwOqqPuKYK5i5xHJ/Y6lI49ifA5fdz4=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHnsWUIV+gIEnXAvwVHUSMY0UUFwyEnVmZ/HKkSQwzk=
+			KUoxaIofbuUds45cct4K5Jq9uDFQaNVn9J1DF5iW9B8=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jVKFevnoU4f8BuRXMKiaaPH2XzzveADSy3pqN5nTgpg=
+			Cbun8+DxTvfjCwOqqPuKYK5i5xHJ/Y6lI49ifA5fdz4=
 			</data>
 		</dict>
 		<key>Modules/OISecurity.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0w4tRb5WbfhXEeBx3qY1W/uNOEcsg5uPiYUu2ty/n9I=
+			wTvavmBiilpjbTIckY+M7BD2DxU7eyDqXoPb3D3bY/A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

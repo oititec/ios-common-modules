@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name            = "OISecurity"
-    s.version         = '4.0.1'
+    s.version         = '4.1.0'
     s.summary         = 'Módulo responsável por criar logs, evento e captura de crashes'
     s.homepage        = 'https://www.oititec.com.br/'
     s.license         = { :type => 'Copyright', :text => 'Copyright © 2022-2024 Oiti. All rights reserved.' }
@@ -14,5 +14,4 @@ Pod::Spec.new do |s|
     s.vendored_frameworks   = 'Frameworks/OISecurity.xcframework'
 
     s.dependency 'OINetwork', '~> 2.1.1'
-    s.dependency 'Sentry', '~> 8.36'
 end
