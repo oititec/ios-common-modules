@@ -26,6 +26,9 @@ import _SwiftConcurrencyShims
   public static func start()
   @objc deinit
 }
+public protocol DebugLoggerProtocol {
+  func logData(forStep step: Swift.String, errorDetail: OINetwork.ErrorDetail, provider: Swift.String)
+}
 public struct SecurityPayload {
 }
 public struct SecurityEvent {
@@ -65,9 +68,6 @@ extension OISecurity.SecurityManager : Swift.Hashable {
   final public var hashValue: Swift.Int {
     get
   }
-}
-public protocol DebugLoggerProtocol {
-  func logData(forStep step: Swift.String, errorDetail: OINetwork.ErrorDetail, provider: Swift.String)
 }
 @_hasMissingDesignatedInitializers final public class DebugLogger : OISecurity.DebugLoggerProtocol {
   convenience public init(ticket: Swift.String, environment: OICommons.Environment)
@@ -155,6 +155,19 @@ public enum EventType : Swift.String, Swift.CaseIterable {
   public var rawValue: Swift.String {
     get
   }
+}
+@_hasMissingDesignatedInitializers final public class FaceCaptchaDebugLogger : OISecurity.DebugLoggerProtocol {
+  convenience public init(appKey: Swift.String, environment: OICommons.Environment)
+  final public func logData(forStep step: Swift.String, errorDetail: OINetwork.ErrorDetail, provider: Swift.String)
+  @objc deinit
+}
+public protocol RequestHelper {
+  func generateUserAgent(with bundleIdentifier: Swift.String) -> Swift.String
+}
+@_hasMissingDesignatedInitializers final public class DefaultRequestHelper : OISecurity.RequestHelper {
+  convenience public init()
+  final public func generateUserAgent(with bundleIdentifier: Swift.String) -> Swift.String
+  @objc deinit
 }
 extension OISecurity.PersistenceOption : Swift.Equatable {}
 extension OISecurity.PersistenceOption : Swift.Hashable {}
