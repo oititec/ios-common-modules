@@ -1,7 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name OIComponents
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name OIComponents
 import AVFoundation
 import CoreGraphics
 import DeveloperToolsSupport
@@ -364,7 +363,7 @@ public protocol LinkLayoutContraintsModel {
   var verticalPadding: CoreFoundation.CGFloat { get }
 }
 @objc @_Concurrency.MainActor(unsafe) public class HybridLoadingView : UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public init(appearance: OIComponents.HybridViewAppearance)
+  @_Concurrency.MainActor(unsafe) public init(appearance: OIComponents.HybridViewAppearance, accessibilityLabel: Swift.String? = nil)
   @available(*, unavailable)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
@@ -452,6 +451,10 @@ public struct CheckCameraPermissionViewProperties {
   public var closeButtonHighlightedStyle: OIComponents.ButtonComponentStyles
   public var closeButtonNormalStyle: OIComponents.ButtonComponentStyles
   public var closeButtonDisabledStyle: OIComponents.ButtonComponentStyles
+  public var accessibilityLabelBackButton: Swift.String
+  public var accessibilityLabelCheckPermissionButton: Swift.String
+  public var accessibilityLabelOpenSettingsButton: Swift.String
+  public var accessibilityLabelCloseButton: Swift.String
   public init()
 }
 public struct OitiHeaderComponentModel {
